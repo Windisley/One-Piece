@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    transition: all .5s ease-in-out;
+}
+
+ p{
+    text-transform: capitalize;
+ }
+
+ h1,h2,h3{
+    text-transform: uppercase;
+ }
+
+ a{
+    color: #000;
+ }
+
+body{
+    font-size: 65%;
+    font-family: sans-serif;
+}
